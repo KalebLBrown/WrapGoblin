@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WrapGoblin",
+			"Path": "..\\Source\\WrapGoblin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WrapGoblinEditor",
+			"Path": "..\\Source\\WrapGoblinEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

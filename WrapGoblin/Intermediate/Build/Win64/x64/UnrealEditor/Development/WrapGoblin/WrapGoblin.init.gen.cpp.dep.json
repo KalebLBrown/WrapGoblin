@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\unrealeditor\\inc\\wrapgoblin\\uht\\wrapgoblin.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\x64\\wrapgoblineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wrapgoblin\\definitions.wrapgoblin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

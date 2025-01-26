@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\unrealeditor\\inc\\wrapgoblin\\uht\\wrapgoblingamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\x64\\wrapgoblineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wrapgoblin\\definitions.wrapgoblin.h",
+            "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\source\\wrapgoblin\\wrapgoblingamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\kaleb\\desktop\\wrapgoblin\\wrapgoblin\\wrapgoblin\\intermediate\\build\\win64\\unrealeditor\\inc\\wrapgoblin\\uht\\wrapgoblingamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

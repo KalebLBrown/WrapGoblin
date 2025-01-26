@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WrapGoblin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WrapGoblin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WrapGoblinEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WrapGoblin">
+      <UniqueIdentifier>{C05121FD-DB54-3F46-AB50-E3B03C97B887}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WrapGoblin\TP_PickUpComponent.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\TP_PickUpComponent.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WrapGoblin\TP_WeaponComponent.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\TP_WeaponComponent.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WrapGoblin\WrapGoblin.Build.cs">
+      <Filter>Source\WrapGoblin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WrapGoblin\WrapGoblin.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\WrapGoblin.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WrapGoblin\WrapGoblinCharacter.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\WrapGoblinCharacter.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WrapGoblin\WrapGoblinGameMode.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\WrapGoblinGameMode.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WrapGoblin\WrapGoblinPlayerController.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\WrapGoblinPlayerController.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WrapGoblin\WrapGoblinProjectile.cpp">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WrapGoblin\WrapGoblinProjectile.h">
+      <Filter>Source\WrapGoblin</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
