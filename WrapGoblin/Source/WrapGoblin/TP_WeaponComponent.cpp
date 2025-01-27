@@ -58,11 +58,8 @@ void UTP_WeaponComponent::Fire()
 	if (FireAnimation != nullptr)
 	{
 		// Get the animation object for the arms mesh
-		UAnimInstance* AnimInstance = Character->GetMesh1P()->GetAnimInstance();
-		if (AnimInstance != nullptr)
-		{
-			AnimInstance->Montage_Play(FireAnimation, 1.f);
-		}
+		
+		us
 	}
 }
 
@@ -78,7 +75,7 @@ bool UTP_WeaponComponent::AttachWeapon(AWrapGoblinCharacter* TargetCharacter)
 
 	// Attach the weapon to the First Person Character
 	FAttachmentTransformRules AttachmentRules(EAttachmentRule::SnapToTarget, true);
-	AttachToComponent(Character->GetMesh1P(), AttachmentRules, FName(TEXT("GripPoint")));
+	
 
 	// add the weapon as an instance component to the character
 	Character->AddInstanceComponent(this);
