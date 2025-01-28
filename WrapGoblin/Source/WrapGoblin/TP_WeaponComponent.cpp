@@ -59,7 +59,7 @@ void UTP_WeaponComponent::Fire()
 	{
 		// Get the animation object for the arms mesh
 		
-		us
+
 	}
 }
 
